@@ -9,7 +9,7 @@ I am a Web Developer (Fullstack) passionate about building responsive, modern, a
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Portfolio](http://augajom.github.io/my-portfolio-site/)
 * ✉️  You can contact me at [suphamethee.au@gmail.com](mailto:suphamethee.au@gmail.com)
-* 🧠  I'm currently learning Java, Spring Boot
+* 🧠  I'm currently learning Python, Django
 * 👥  I'm looking to collaborate on seeking opportunities as a Fullstack Developer.
 
 <p align="left">
